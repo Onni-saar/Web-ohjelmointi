@@ -1,0 +1,68 @@
+
+.first-box-container {
+
+    width: 200px;
+  
+    height: 100px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+  
+    background-color: red;
+    position:absolute;
+
+    
+  
+  }
+  
+  
+  
+  .second-box-container {
+  
+    width: 200px;
+  
+    height: 100px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+  
+    background-color: yellow;
+    position:absolute;
+    left: 250px;
+
+  }
+  
+  
+  
+  .third-box-container {
+  
+    width: 200px;
+  
+    height: 100px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+  
+    background-color: green;
+    position:absolute;
+    left: 490px;
+  }
+  .teksti1 {
+    color: blue;
+    text-transform: uppercase; 
+    text-align: center;
+  }
+
+
+.teksti2 {
+  color: blue;
+  text-transform: uppercase; 
+  text-align: justify;
+}
+
+
+.teksti3 {
+  color: blue;
+  text-transform: uppercase; 
+  text-align: center;
+}
